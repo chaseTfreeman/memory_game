@@ -1,0 +1,28 @@
+ /*Reference your board class and give it a height of 80%, a width of 50%. Make sure you display it as an inline-block.
+
+Reference your card class in your style.css and make the height of your cards 200px, the width 150px and a black border of 1px.
+
+Make your cards yellow.
+
+Bonus: Make your cards have card-like rounded borders by adding a border radius of 10px.*/
+
+.board {
+	height: 80%;
+	width: 50%;
+}
+.cards {
+	height: 200px;
+	width: 150px;
+	background-color: yellow;
+	border: black;
+	border: 1px;
+	border-radius: 10px;
+
+}
+	h1 {
+		color: #008080;}
+	h2 {
+		color: gold;
+	}
+
+
